@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou a Larissa! 👋</h1>
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🎯 Focada em iniciar carreira no **Front-end**  
 💡 Apaixonada por **tecnologia**, com uma veia forte para a **criatividade**
 
 ---
@@ -16,8 +15,12 @@ Sou curiosa, criativa e apaixonada por aprender coisas novas todos os dias! 🚀
 
 ### 💻 Tecnologias que estou aprendendo
 
-- HTML | CSS | JavaScript
+- HTML | CSS | JavaScript | Phyton
 - Git & GitHub
+- SQL
+- Power BI
+- React (básico/intermediário)
+- Banco de Dados (modelagem e consultas)
 
 ---
 
@@ -25,6 +28,7 @@ Sou curiosa, criativa e apaixonada por aprender coisas novas todos os dias! 🚀
 
 - 🎨 Portfólio pessoal
 - 🛠️ Projetos Front-end e Back-end
+- 📊 Dashboards interativos com Power BI
 
 ---
 
@@ -32,7 +36,7 @@ Sou curiosa, criativa e apaixonada por aprender coisas novas todos os dias! 🚀
 
 Você pode me encontrar por aqui:
 
-[![LinkedIn](www.linkedin.com/in/larissa-borges-de-carvalho-bbb721341)
+[![LinkedIn](www.linkedin.com/in/larissabcarvalhodev)
 [![GitHub](https://github.com/LarissaBCarv))
 
 ---
