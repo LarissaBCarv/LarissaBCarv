@@ -26,7 +26,6 @@ Sou curiosa, criativa e apaixonada por aprender coisas novas todos os dias! 🚀
 
 ### 📌 Em breve...
 
-- 🎨 Portfólio pessoal
 - 🛠️ Projetos Front-end e Back-end
 - 📊 Dashboards interativos com Power BI
 
