@@ -1,41 +1,54 @@
-<h1 align="center">Olá, eu sou a Larissa! 👋</h1>
+<h1 align="center">Olá! Eu sou a Larissa Borges 👋</h1>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💡 Apaixonada por **tecnologia**, com uma veia forte para a **criatividade**
-
----
-
-### ✨ Sobre mim
-
-Após anos atuando na área da saúde, decidi seguir meu coração e migrar para o universo da tecnologia.  
-Desde muito cedo, a tecnologia sempre esteve presente na minha vida — agora, ela é minha escolha de carreira.  
-Sou curiosa, criativa e apaixonada por aprender coisas novas todos os dias! 🚀
+<p align="center">
+💻 Desenvolvedora Front-end em formação • 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+</p>
 
 ---
 
-### 💻 Tecnologias que estou aprendendo
+## Sobre mim
 
-- HTML | CSS | JavaScript | Phyton
-- Git & GitHub
-- SQL
-- Power BI
-- React (básico/intermediário)
-- Banco de Dados (modelagem e consultas)
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento **Front-end**.
 
----
+Depois de anos atuando na área da saúde, decidi transformar minha paixão por tecnologia em carreira. Hoje, concentro meus estudos na criação de interfaces modernas, responsivas e intuitivas, buscando unir desenvolvimento e experiência do usuário.
 
-### 📌 Em breve...
-
-- 🛠️ Projetos Front-end e Back-end
-- 📊 Dashboards interativos com Power BI
+Atualmente estou construindo um portfólio com projetos práticos utilizando as principais tecnologias do ecossistema web.
 
 ---
 
-### 📫 Contato
+## Tecnologias
 
-Você pode me encontrar por aqui:
-
-[![LinkedIn](www.linkedin.com/in/larissabcarvalhodev)
-[![GitHub](https://github.com/LarissaBCarv))
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Git & GitHub
+* SQL
+* Python
+* Power BI
 
 ---
+
+## Projetos em destaque
+
+* 🌐 Portfólio Pessoal
+* 🕯️ Marêu — Landing Page
+* ❤️ Nosso Aniversário
+* 💱 Conversor de Moedas
+
+---
+
+## Objetivo
+
+Estou em busca da minha primeira oportunidade como **Desenvolvedora Front-end**, onde eu possa aprender continuamente, colaborar em projetos reais e evoluir profissionalmente.
+
+---
+
+## Contato
+
+💼 LinkedIn: [www.linkedin.com/in/larissabcarvalhodev](http://www.linkedin.com/in/larissabcarvalhodev)
+
+🌐 Portfólio: https://larissa-borges.vercel.app/
+
+📧 Email: l.carvaborges@gmail.com
+
